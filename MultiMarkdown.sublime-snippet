@@ -1,0 +1,13 @@
+<snippet>
+Snippet for 
+<content><![CDATA[
+Title:  ${1:<TITLE>}
+Author: Jonathan Sturtridge
+Date:   `date +"%Y-%m-%d"`
+Notes:  ${2:Notes}
+]]></content>
+<tabTrigger>mmdheader</tabTrigger>
+	<description>MultiMarkdown Notes header</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,8 @@
+// Marked.app build file
+// Saves file first
+// (c) Jonathan Sturtridge 2012
+
+{
+	"cmd": ["open","-a","/Applications/Marked.app","$file"],
+	"selector": "text.html.markdown"
+}
